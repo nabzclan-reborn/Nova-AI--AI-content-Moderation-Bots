@@ -1,0 +1,13 @@
+# Nova Content Moderation - Custom Policies
+# ==========================================
+# Maximum: 10,000 characters
+#
+# Format: #policy [number]: [description]
+# Each policy should be on its own line.
+#
+# Examples:
+#policy 1: block all spam and advertising content of all kind for example
+#policy 2: warn on mild profanity, block on severe profanity
+#policy 3: ban 7 days for hate speech or slurs
+#policy 4: escalate threats of violence for human review
+#policy 5: block sharing of personal information (doxxing)

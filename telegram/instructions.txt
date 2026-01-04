@@ -1,0 +1,12 @@
+# Nova Content Moderation - Instructions
+# ======================================
+# Maximum: 2,000 characters
+#
+# Write instructions for how the AI should moderate content.
+# Be clear and specific about your preferences.
+#
+# Example:
+Be moderately strict with moderation decisions.
+Maximum ban duration should be 14 days.
+Prioritize user safety over leniency.
+When uncertain, recommend escalation for human review.
